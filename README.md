@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+my profile
 **AnuMuley/AnuMuley** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: ...linked https://www.linkedin.com/in/dr-anuradha-muley-96b73725/ Anuradha Muley on FACEBOOK
 
-- Hobbies Intrests ... Traveling, cooking, Dancing, poetry 😎
+- Hobbies Intrests ... Traveling, cooking, Dancing, poetry 😎 
 
