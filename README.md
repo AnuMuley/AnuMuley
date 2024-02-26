@@ -6,12 +6,14 @@ my profile
 Here are some ideas to get you started:
 
 
-- 🌱 I’m currently learning ...Wev Devolopment @ DCI
+- 🌱 I’m completed WEB DEVELOPMENT COURSE @ DCI (Digital Career Institute)
 
-- 🤔 I’m looking for help with my new career switch ...
+- 🤔 I’m looking for Junior Position with my new career switch ...
 
-- 💬 Ask me anything  about coding may be after this course.. 😄 but for now INDIAN COOKING and HOMOEOPATHIC medicine...andd Raising kids 😜
-
+- I am enthusiastic, quick learner and have a passion for new Technologies.
+- 
+- my Skills are HTML, CSS, JavaScript, React, MondoDB, Rest APIS
+- 
 - 📫 How to reach me: ...linked https://www.linkedin.com/in/dr-anuradha-muley-96b73725/ Anuradha Muley on FACEBOOK
 
 - Hobbies Intrests ... Traveling, cooking, Dancing, poetry 😎 
